@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SIBO BALDE
-- 👀 I’m interested in Web development(javascript,MERN and MEAN
+- 👀 I’m interested in Web development(javascript,MERN and MEAN)
 
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
